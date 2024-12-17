@@ -82,7 +82,7 @@ export const projects = [
   {
     name: 'portfolio_final',
     description: '최종 개인 포트폴리오 프로젝트입니다.',
-    link: '',
+    link: 'https://final-portfolio-three-zeta.vercel.app',
   },
   {
     name: 'dob_final',
