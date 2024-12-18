@@ -87,6 +87,6 @@ export const projects = [
   {
     name: 'dob_final',
     description: '최종 팀 프로젝트입니다.',
-    link: '',
+    link: 'https://final-dob-gules.vercel.app',
   },
 ]
